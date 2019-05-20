@@ -1,3 +1,15 @@
 apiVersion: v1
-entries: {}
-generated: "2019-05-20T14:09:04.9897651+02:00"
+entries:
+  kafka-lag-exporter:
+  - apiVersion: v1
+    appVersion: 0.4.1-SNAPSHOT
+    created: "2019-05-20T14:23:42.9468712+02:00"
+    description: Kafka Lag Exporter
+    digest: ac028c85ff1e9a6f45c5ada24fa34ef8ef59a609997203cc0efc707f82574a45
+    maintainers:
+    - name: Sean Glover
+    name: kafka-lag-exporter
+    urls:
+    - kafka-lag-exporter-0.4.1.tgz
+    version: 0.4.1
+generated: "2019-05-20T14:23:42.9449189+02:00"
