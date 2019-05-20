@@ -10,6 +10,6 @@ entries:
     - name: Sean Glover
     name: kafka-lag-exporter
     urls:
-    - kafka-lag-exporter-0.4.1.tgz
+    - https://github.com/PeterMosmans/kafka-lag-exporter/raw/master/charts/kafka-lag-exporter-0.4.1.tgz
     version: 0.4.1
 generated: "2019-05-20T14:23:42.9449189+02:00"
